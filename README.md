@@ -1,5 +1,5 @@
-# EnRootGroup1
-### Glo and let Glo
+# EnRootGroup1: Glo and let Glo
+
 #### Theme: Art and Craft
 
 ##### Objectives:
