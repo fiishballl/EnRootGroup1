@@ -1,5 +1,5 @@
 # EnRootGroup1
-### Event name: Glo and let Glo
+### Glo and let Glo
 #### Theme: Art and Craft
 
 ##### Objectives:
