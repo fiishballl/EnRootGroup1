@@ -1,4 +1,4 @@
-# EnRootGroup1: Glo and let Go
+# EnRootGroup1: Glo and let Glo
 
 #### Theme: Art and Craft
 
